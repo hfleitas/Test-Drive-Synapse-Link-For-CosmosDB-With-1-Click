@@ -17,7 +17,7 @@
 				"spark.dynamicAllocation.enabled": "false",
 				"spark.dynamicAllocation.minExecutors": "2",
 				"spark.dynamicAllocation.maxExecutors": "2",
-				"spark.autotune.trackingId": "23d8ebf5-be53-485d-8294-6c958cbd10df"
+				"spark.autotune.trackingId": "9e29750a-14ca-42c5-b7c9-ed18b7c62ffd"
 			}
 		},
 		"metadata": {
@@ -56,7 +56,9 @@
 					"- Ingest data into Cosmos DB containers using Azure Synapse Spark\n",
 					"- Setup Spark tables\n",
 					"- Join & aggregate operational data across Cosmos DB containers\n",
-					"- Perform Near real-time Sales Forecasting using Azure Automated Machine Learning using Synapse Link for Cosmos DB"
+					"- Perform Near real-time Sales Forecasting using Azure Automated Machine Learning using Synapse Link for Cosmos DB\n",
+					"\n",
+					"https://github.com/Azure/Test-Drive-Synapse-Link-For-CosmosDB-With-1-Click"
 				]
 			},
 			{
